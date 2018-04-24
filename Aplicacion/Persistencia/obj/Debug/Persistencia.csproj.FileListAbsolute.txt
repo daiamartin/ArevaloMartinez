@@ -1,0 +1,52 @@
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\Domino.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\Domino.pdb
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Usuario\Documents\2entrega-da\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Persistencia\obj\Debug\Persistencia.pdb

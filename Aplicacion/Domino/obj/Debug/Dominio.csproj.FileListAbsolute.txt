@@ -1,0 +1,126 @@
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\Domino.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.assert.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.core.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.assert.xml
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.core.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\bin\Debug\xunit.core.xml
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\obj\Debug\Domino.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\Domino\obj\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\refac\Domino\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\refac\Domino\obj\Debug\Domino.dll
+C:\Users\Usuario\Desktop\refac\Domino\obj\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\refac\Domino\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\Integracion\Domino\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\Integracion\Domino\obj\Debug\Domino.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\obj\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\Domino.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.assert.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.core.dll
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.assert.xml
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.core.pdb
+C:\Users\alejandro\Desktop\Integracion\Domino\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\Domino.dll.config
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\Domino.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\Domino.pdb
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Documents\2entrega-da\Domino\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Documents\2entrega-da\Domino\obj\Debug\Domino.dll
+C:\Users\Usuario\Documents\2entrega-da\Domino\obj\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.core.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\bin\Debug\xunit.core.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\obj\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Domino\obj\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.core.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\bin\Debug\xunit.core.xml
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\obj\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\OBLIGARORIOeste!!\Aplicacion\Domino\obj\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.core.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\bin\Debug\xunit.core.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\obj\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Domino\obj\Debug\Domino.pdb

@@ -1,0 +1,17 @@
+Prueba/obj/
+Persistencia/obj/
+packages/EntityFramework.6.1.3/
+Logica/obj/
+InterfazLogica/obj/
+Test/obj/
+packages/xunit.runners.2.0.0/
+packages/
+InterfazGrafica/obj/
+TestUnitario/obj/
+/
+.gitignore
+InterfazGrafica/bin/
+_gitignore
+InterfazGrafica/Properties/
+Test/bin/
+Domino/obj/

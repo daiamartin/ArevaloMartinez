@@ -1,0 +1,51 @@
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\Test.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\Test.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\obj\Debug\Test.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Test\obj\Debug\Test.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\Test.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\Test.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\Domino.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.assert.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.core.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\Domino.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.assert.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.assert.xml
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.core.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Test\bin\Debug\xunit.core.xml
+C:\Users\Ale\Desktop\ObligatorioDA\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\ObligatorioDA\Test\obj\Debug\Test.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Test\obj\Debug\Test.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\Test.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\Test.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\obj\Debug\Test.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Test\obj\Debug\Test.pdb

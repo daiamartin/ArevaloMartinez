@@ -1,0 +1,64 @@
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\Domino\bin\Debug\Domino.dll
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\Domino\bin\Debug\Domino.pdb
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\Domino\obj\Debug\Domino.dll
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\Domino\obj\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\obj\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\obj\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\Domino\obj\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\obj\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\obj\Debug\Domino.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\Domino.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\Domino.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.core.dll
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\bin\Debug\xunit.core.xml
+C:\Users\Ale\Desktop\ObligatorioDA\Domino\obj\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\obj\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\obj\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\Domino\obj\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.abstractions.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.execution.desktop.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\Domino.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.assert.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.core.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.assert.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.assert.xml
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.core.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\bin\Debug\xunit.core.xml
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\obj\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\obj\Debug\Domino.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\Domino\obj\Debug\Domino.pdb

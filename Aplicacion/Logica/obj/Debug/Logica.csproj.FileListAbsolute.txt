@@ -1,0 +1,60 @@
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Logica.dll.config
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Domino.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Domino.pdb
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\2entrega-da\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\2entrega-da\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\2entrega-da\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Documents\2entrega-da\Logica\obj\Debug\Logica.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Logica.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Logica.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Logica.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\Persistencia.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\obj\Debug\Logica.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\Logica\obj\Debug\Logica.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Logica.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Logica.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Logica.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\Persistencia.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\obj\Debug\Logica.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\Logica\obj\Debug\Logica.pdb

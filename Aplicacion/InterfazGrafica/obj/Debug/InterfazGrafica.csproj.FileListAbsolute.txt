@@ -1,0 +1,330 @@
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.From.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Documents\obligatorioda\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.From.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.From.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Ale\Desktop\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.From.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.From.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\alejandro\Desktop\ObligatorioDA\Version16\ObligatorioDA\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.From.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\alejandro\Desktop\Entrega1\ObligatorioDA\disenoaplicaciones\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoProducto.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.PlanProduccion.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.ProcesarPlan.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Desktop\refac\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarCliente.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoProducto.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.PlanProduccion.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoCliente.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.IngresoPedido.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarCliente.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.ProcesarPlan.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\alejandro\Desktop\Integracion\InterfazGrafica\obj\Debug\InterfazGrafica.FueraFecha.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\Logica.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.EliminarPedido.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.FueraFecha.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.HistorialPlanificaciones.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.ProductoForm.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarProducto.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.PlanificacionesActivas.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.GenerarPlanificacion.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.ClienteForm.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.PedidoFrom.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.ModificarPedido.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.ProcesarPlan.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Usuario\Documents\2entrega-da\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\alejandro\Documents\2entrega-da\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Logica.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Logica.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Logica.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\bin\Debug\Persistencia.dll.config
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.FueraFecha.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.HistorialPlanificaciones.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.PedidosFinalizados.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.PlanificacionCompletaForm.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.PlanificacionFiltroForm.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.ProductoForm.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.PlanificacionesActivas.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.GenerarPlanificacion.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.ClienteForm.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.PedidoFrom.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.ProcesarPlan.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Daiana\Desktop\Facu\Del disco\2015 - Diseño de Aplicaciones\Entrega2DA\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.abstractions.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\InterfazGrafica.exe.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\InterfazGrafica.exe
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\InterfazGrafica.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Domino.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Logica.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.assert.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.core.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Persistencia.dll
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Domino.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Domino.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Logica.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Logica.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.assert.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.assert.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.core.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\xunit.core.xml
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Persistencia.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\bin\Debug\Persistencia.dll.config
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.Principal.resources
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.ClienteForm.resources
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.Properties.Resources.resources
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.Cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.exe
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.pdb
+C:\Users\Daiana\Desktop\Facu\DA\ZORRO\Aplicacion\InterfazGrafica\obj\Debug\InterfazGrafica.csprojResolveAssemblyReference.cache
