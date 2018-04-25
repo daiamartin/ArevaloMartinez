@@ -10,7 +10,7 @@ namespace TestUnitario
     {
 
         private FabricaControlador fabricaControlador;
-        //De Las 9 pruebas,7 tienen que dar error.
+        //Porbando guit
         [Theory]
         [InlineData("dmartinez", "pass", "Daiana", "Martinez", "Cuareim 357", "2.213.755-9")]//check:ingreso correcto
         public void AgregarCliente(string nombreUsuario, string contrasena, string nombre, string apellido, string direccion, string documento)
